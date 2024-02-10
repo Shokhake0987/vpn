@@ -98,16 +98,24 @@
 	margin-left: 138px;
 }
 .button3{
-	display: inline-block;
-	box-shadow: 10px 5px 70px #F53855;
-	margin-left: 100px;
-	background-color: #F53855;
+    width: 250px;
+    height: 70px;
+    display: inline;
+    color: #F53838;
+    background: white;
+    border: none;
+    border-radius: 15px;
+    font-size: 20px;
+    box-shadow: 30px 30px 100px #BCBDBC;
+    margin-top: 30px;
+    transition: 0.9s;
+}
+.button3:hover{
+	transition: 2s;
 	border: none;
-	height: 60px;
-	width: 250px;
+	background-color: #F53838;
 	color: white;
-	border-radius: 10px;
-	margin-top: 30px;
+	box-shadow: 0 0 50px 3px red;
 }
 .box4{
 	margin-left: 720px;
@@ -280,6 +288,14 @@
 	margin-left: 160px;
 	background-color: white;
 	margin-top: 70px;
+	transition: 1s;
+}
+.mainplan1:hover{
+	transition: 1s;
+	border-color: red;
+	color: blue;
+	border-radius: 30px;
+	box-shadow: 1px 20px 100px #EF5B1B;
 }
 .fre{
 	margin-left: 80px;
@@ -345,6 +361,14 @@
 	margin-left: 560px;
 	background-color: white;
 	margin-top: -760px;
+	transition: 1s;
+}
+.mainplan2:hover{
+	transition: 1s;
+	border-color: red;
+	color: blue;
+	border-radius: 30px;
+	box-shadow: 1px 20px 100px #EF5B1B;
 }
 .sfre{
 	margin-left: 80px;
@@ -417,6 +441,14 @@
 	margin-left: 960px;
 	background-color: white;
 	margin-top: -760px;
+	transition: 1s;
+}
+.mainplan3:hover{
+	transition: 1s;
+	border-color: red;
+	color: blue;
+	border-radius: 30px;
+	box-shadow: 1px 20px 100px #EF5B1B;
 }
 .pfre{
 	margin-left: 80px;
@@ -520,3 +552,4 @@
 	display: inline-block;
 	margin-top: 1px;
 }
+.1
