@@ -107,8 +107,9 @@
     border-radius: 15px;
     font-size: 20px;
     box-shadow: 30px 30px 100px #BCBDBC;
-    margin-top: 30px;
+    margin-top: 50px;
     transition: 0.9s;
+    margin-left: 66px;
 }
 .button3:hover{
 	transition: 2s;
@@ -119,7 +120,7 @@
 }
 .box4{
 	margin-left: 720px;
-	margin-top: -236px;
+	margin-top: -310px;
 }
 .get{
 	margin-left: 100px;
@@ -293,7 +294,7 @@
 .mainplan1:hover{
 	transition: 1s;
 	border-color: red;
-	color: blue;
+	color: green;
 	border-radius: 30px;
 	box-shadow: 1px 20px 100px #EF5B1B;
 }
@@ -366,7 +367,7 @@
 .mainplan2:hover{
 	transition: 1s;
 	border-color: red;
-	color: blue;
+	color: green;
 	border-radius: 30px;
 	box-shadow: 1px 20px 100px #EF5B1B;
 }
@@ -446,7 +447,7 @@
 .mainplan3:hover{
 	transition: 1s;
 	border-color: red;
-	color: blue;
+	color: green;
 	border-radius: 30px;
 	box-shadow: 1px 20px 100px #EF5B1B;
 }
@@ -552,4 +553,37 @@
 	display: inline-block;
 	margin-top: 1px;
 }
-.1
+.mainbox4{
+    width: 84em;
+    height: 47em;
+}
+.saxtash{
+	margin-left: 527px;
+    margin-right: auto;
+    font-size: 35px;
+    margin-top: 163px;
+    font-family: serif;
+    height: 100px;
+    width: 420px;
+}
+.shuge{
+
+}
+.sof{
+	margin-left: 81px;
+
+}
+.aralash{
+	margin-left: 426px;
+    color: #4F5665;
+}
+.gapo{
+
+}
+.karta{
+    margin-top: 125px;
+    margin-left: 145px;
+}
+.dostonajurosh{
+	margin-left: 100px;
+}
